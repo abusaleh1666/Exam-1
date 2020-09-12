@@ -312,6 +312,7 @@ nav ul li a:hover{
     margin: 15px 18px;
     transition: all .8s ease-in-out;
     position: relative;
+    background: #f9f9f9;
 }
 
 .part-one img{
@@ -355,6 +356,7 @@ nav ul li a:hover{
     font-family: 'Open Sans', sans-serif;
     line-height: 18px;
     margin-bottom: 80px;
+    word-spacing: 5px;
 }
 
 .part-two{
@@ -407,7 +409,7 @@ nav ul li a:hover{
     width: 90%;
     margin-right: 53px;
     font-size: 15px;
-    color: #484848;
+    color: #8b8b8b;
     font-family: 'Open Sans', sans-seri
 }
 
